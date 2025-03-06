@@ -3,6 +3,9 @@
 ## Overview
 This project implements a 7-segment counter on an STM32F401RE microcontroller. The counter displays numbers from 0 to 99 and allows incrementing, decrementing, and resetting through push buttons. The implementation is done using CMSIS (not HAL) and is simulated in Proteus.
 
+![plot](./images/schematic.png)
+
+
 ## Hardware Setup
 - **Microcontroller:** STM32F401RE
 - **7-Segment Displays:** Two common anode 7-segment displays
