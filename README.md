@@ -53,8 +53,6 @@ cd MicroProjects
 
 ## 📧 Contact
 
-For inquiries or further discussion, please contact:
-
-📩 **amirhoseinghf82@gmail.com**
+For any questions, reach out at: **amirhoseinghf82@gmail.com**
 
 ---
